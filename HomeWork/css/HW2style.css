@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    text-align: center;   
+}
+.test1 {
+    width: 100%;
+    text-align: center;
+    color: red;
+    
+}
+.number {
+    display: inline-block;
+}
+.italic {
+    font-style: italic;
+}
+hr {
+    color: red;
+}
+body {
+    background-color: blanchedalmond;
+}
