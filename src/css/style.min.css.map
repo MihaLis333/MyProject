@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "sources": [
+        "../sass/style.scss"
+    ],
+    "names": [],
+    "mappings": "AACA,EACI,8BAAA,CAGJ,GACI,eAAA",
+    "file": "style.min.css"
+}
